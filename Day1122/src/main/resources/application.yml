@@ -1,0 +1,8 @@
+my:
+  name: jacob
+  age: 22
+  number: ${random.int[100,999]}
+  uuid: ${random.uuid}
+  max: ${random.int(10)}
+  value: ${random.value
+  greeting: Hi , I ' m ${my.name}

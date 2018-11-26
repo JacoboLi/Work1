@@ -1,0 +1,17 @@
+management:
+  security:
+    enabled:  false 
+  port: 8081
+  context-path: /jacob
+  
+  
+#endpoints:
+#  actuator:
+#    enabled: true
+#  shutdown:
+#    enabled: true
+    
+info:
+  app: 
+    name: jacobo
+    version: 1.0.0
